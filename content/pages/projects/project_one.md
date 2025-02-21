@@ -25,4 +25,5 @@ bottomSections: []
 metaTags: []
 colors: colors-a
 ---
-For the 2nd episode I immersed myself into the filmmaking club of Texas A\&M, getting involved with the largest feature film project in the history of the club. Here I met Winston, who was a constant collaborator and my best friend throughout my college years until his sudden passing from suicide summer of 2024.
+As a proof of concept for my former employers at PBS, we made an ethnographical documentary series in the form of "Gonzo" journalism in collaboration with student creatives from the Texas A\&M filmmaking club and the Texas A\&M PBS station KAMU-FM. Some guiding ideas was an experimental, first person perspective into the various different subcultures of Texas A\&M. Early uses of my video synthesizer can be seen during the middle segment, which will be a constant theme throughout the series.
+
