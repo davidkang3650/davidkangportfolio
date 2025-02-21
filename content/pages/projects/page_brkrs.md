@@ -3,9 +3,7 @@ type: ProjectLayout
 title: THE 'BREAKERS
 date: '2023-01-20'
 client: ''
-description: >-
-  Worked as Director of Photography for feature film "The 'Breakers", directed
-  by Winston Li. 
+description: 'Director of Photography for feature film "The ''Breakers" by Winston Li. '
 featuredImage:
   type: ImageBlock
   url: /images/Still 2024-06-27 185125_1.5.1.jpg
@@ -27,12 +25,7 @@ bottomSections:
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
-        url: /images/7887ae6b10e448c2a0296be149707496.jpeg
-        altText: Image two
-        caption: Image two caption
-        elementId: ''
-      - type: ImageBlock
-        url: /images/863165b5272d4c1e8a31e17cec21f0cd.jpeg
+        url: /images/Still 2024-06-27 185125_1.5.1.jpg
         altText: Image three
         caption: Image three caption
         elementId: ''
@@ -41,7 +34,12 @@ bottomSections:
         altText: Image four
         caption: Image four caption
         elementId: ''
-    colors: colors-a
+      - type: ImageBlock
+        url: /images/7887ae6b10e448c2a0296be149707496.jpeg
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
+    colors: colors-f
     spacing: 16
     columns: 2
     aspectRatio: '1:1'
@@ -64,7 +62,14 @@ bottomSections:
         textAlign: center
 metaTags: []
 colors: colors-a
+backgroundImage:
+  type: BackgroundImage
+  url: /images/863165b5272d4c1e8a31e17cec21f0cd.jpeg
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
-As Director of Photography I was responsible for getting more than 90% of the shots for the film with an expected runtime of 2hrs. Although the entire film was written and filmed, the director of the movie and my best friend Winston Li committed suicide before being able to complete the project. Considering my close relationship to the material and the director, I decided to finish the movie myself using the written guidance in the script from Winston.
+As Director of Photography I was responsible for operating the cameras and getting more than 90% of the shots for the film with an expected runtime of 2hrs. Tragically, although the entire film was written and filmed, the director of the movie and my best friend Winston Li committed suicide before being able to finish the project. Considering my close relationship to the material and the director, I decided to complete the movie myself using the written guidance in the script from Winston.
 
 The film will be released soon.
