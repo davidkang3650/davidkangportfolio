@@ -35,7 +35,7 @@ bottomSections:
         caption: Image four caption
         elementId: ''
       - type: ImageBlock
-        url: /images/7887ae6b10e448c2a0296be149707496.jpeg
+        url: /images/47faa2c6d2e2485494103b61e67885b6.jpeg
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
