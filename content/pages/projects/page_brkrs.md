@@ -64,7 +64,7 @@ metaTags: []
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/Still 2024-06-27 185125_1.5.1.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
