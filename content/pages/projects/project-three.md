@@ -78,4 +78,4 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 50
 ---
-For the 3rd episode, I followed a group of freestyle dancers to their monthly street performance in downtown Bryan during the First Friday celebrations. Then as a second segment, I brought the dance crew to the city of Hearne- an abandoned railroad town fading into obscurity- to see if the energy of their performances would change depending on location. Their passion was unfazed by the lack of spectators and we ended up dancing through the night middle of a ghost town in the sweltering Texas summer.
+For the 3rd episode, I followed a group of freestyle dancers to their monthly street performance in downtown Bryan during the First Friday celebrations. Then as a second segment, I brought the dance crew to the city of Hearne- an abandoned railroad town fading into obscurity- to see if the energy of their performances would change depending on location. Their passion was unfazed by the lack of spectators and we ended up dancing through the night, midst of a ghost town in the sweltering Texas summer.
