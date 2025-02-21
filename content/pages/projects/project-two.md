@@ -14,7 +14,7 @@ featuredImage:
 media:
   type: VideoBlock
   title: Title of the video
-  url: 'https://youtu.be/BD-YliszGkA'
+  url: 'https://www.youtube.com/watch?v=jumaK1m3REA&ab_channel=CollegeStationCollage'
   elementId: ''
   autoplay: false
   loop: false
