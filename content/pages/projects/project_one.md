@@ -14,7 +14,7 @@ media:
   type: VideoBlock
   title: SUMMER BREAKERS
   url: >-
-    https://www.youtube.com/watch?v=5pyYQRBzSt4&t=497s&ab_channel=CollegeStationCollage
+    https://www.youtube.com/watch?v=BKHff5E1_xs&t=473s&ab_channel=CollegeStationCollage
   elementId: ''
   autoplay: false
   loop: false
