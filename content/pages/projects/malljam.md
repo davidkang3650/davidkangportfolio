@@ -3,7 +3,9 @@ type: ProjectLayout
 title: LIVE PERFORMANCES
 date: '2023-02-15'
 client: ''
-description: SERIES OF INSTALLATION PERFORMANCES PIECES SHOWCASING STUDENT MUSICAL TALENT
+description: >-
+  SERIES OF VIDEO INSTALLATION / PERFORMANCES PIECES SHOWCASING STUDENT MUSICAL
+  TALENT
 featuredImage:
   type: ImageBlock
   url: /images/Untitled_1.47.3.png
