@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: COLLEGE STATION COLLAGE EPISODE 1
-date: ''
+date: '0202-05-25'
 client: ''
 description: >-
   2ND EPISODE FOR THE STUDENT DOCUMENTARY SERIES COLLEGE STATION COLLAGE.
