@@ -55,7 +55,7 @@ sections:
       altText: Hero image
       caption: ''
       elementId: ''
-    colors: colors-f
+    colors: colors-a
     backgroundSize: full
     elementId: ''
     styles:
