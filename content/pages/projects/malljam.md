@@ -6,8 +6,10 @@ client: ''
 description: SERIES OF INSTALLATION PERFORMANCES PIECES SHOWCASING STUDENT MUSICAL TALENT
 featuredImage:
   type: ImageBlock
-  url: /images/Untitled_1.47.2.png
-  altText: Project thumbnail image
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 media:
   type: ImageBlock
   url: /images/Untitled_1.47.3.png
