@@ -4,8 +4,8 @@ title: THE 'BREAKERS
 date: '2023-01-20'
 client: ''
 description: >-
-  Worked as Director of Photography for student feature film "The 'Breakers",
-  directed by Winston Li. 
+  Worked as Director of Photography for feature film "The 'Breakers", directed
+  by Winston Li. 
 featuredImage:
   type: ImageBlock
   url: /images/Still 2024-06-27 185125_1.5.1.jpg
