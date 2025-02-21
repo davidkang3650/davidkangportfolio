@@ -31,7 +31,7 @@ bottomSections:
         caption: Image three caption
         elementId: ''
       - type: ImageBlock
-        url: /images/Untitled_1.4.5.png
+        url: /images/IMG_0459.JPG
         altText: Image four
         caption: Image four caption
         elementId: ''
