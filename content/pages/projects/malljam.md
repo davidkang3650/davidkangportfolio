@@ -68,7 +68,7 @@ metaTags: []
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/Screenshot 2025-02-20 223230.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
