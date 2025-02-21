@@ -29,7 +29,7 @@ backgroundImage:
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 100
+  opacity: 51
 bottomSections:
   - type: MediaGallerySection
     title: Gallery

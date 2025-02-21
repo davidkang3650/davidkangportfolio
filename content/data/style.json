@@ -1,14 +1,14 @@
 {
     "type": "ThemeStyle",
-    "light": "#a09c9c",
+    "light": "#d0caca",
     "onLight": "#050806",
     "dark": "#000000",
-    "onDark": "#8e8e92",
+    "onDark": "#fdfdff",
     "primary": "#0804F6",
     "onPrimary": "#FBFFF2",
     "secondary": "#FE491F",
     "onSecondary": "#050806",
-    "complementary": "#565862",
+    "complementary": "#ded9d9",
     "onComplementary": "#FBFFF2",
     "fontBody": "fontPrimary",
     "h1": {
