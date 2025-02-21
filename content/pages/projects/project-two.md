@@ -9,7 +9,7 @@ description: >-
   Featuring the TEXAS A&M Bonfire Crew
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  url: /images/bon_1.60.1.png
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
