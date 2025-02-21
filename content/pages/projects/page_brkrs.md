@@ -19,7 +19,7 @@ media:
 bottomSections:
   - type: MediaGallerySection
     title: Gallery
-    subtitle: This is the subtitle
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/563980bc66924090a2e1c44964e42f43.jpeg
