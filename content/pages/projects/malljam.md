@@ -22,7 +22,7 @@ bottomSections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/563980bc66924090a2e1c44964e42f43.jpeg
+        url: /images/MJ2_1.1.1.png
         altText: Image one
         caption: Image one caption
         elementId: ''
