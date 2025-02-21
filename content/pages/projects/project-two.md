@@ -25,7 +25,7 @@ media:
   aspectRatio: '16:9'
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/IMG_3372 edited.PNG
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
