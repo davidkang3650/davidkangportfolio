@@ -6,7 +6,7 @@ date: '2024-02-24'
 client: ''
 description: >-
   4th episode of the student documentary series College Station Collage.
-  Featuring the Aggie Bonfire Crew
+  Featuring the TEXAS A&M Bonfire Crew
 featuredImage:
   type: ImageBlock
   url: /images/IMG_3372.PNG
