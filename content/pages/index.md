@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/IMG_0838.JPG
+  url: /images/Ultramax 2-29.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
