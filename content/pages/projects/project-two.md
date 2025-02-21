@@ -25,11 +25,57 @@ media:
   aspectRatio: '16:9'
 backgroundImage:
   type: BackgroundImage
-  url: /images/IMG_3372 edited.PNG
+  url: /images/bon_1.60.1.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
+bottomSections:
+  - type: MediaGallerySection
+    title: Gallery
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/Untitled_1.14.1.png
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/Untitled_1.1.1.png
+        altText: Image two
+        caption: Image two caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/IMG_3372 edited.PNG
+        altText: Image three
+        caption: Image three caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/DSC_0163.jpg
+        altText: Image four
+        caption: Image four caption
+        elementId: ''
+    colors: colors-f
+    spacing: 16
+    columns: 2
+    aspectRatio: '1:1'
+    showCaption: false
+    enableHover: false
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
 ---
 What goes on in the middle of Texas?
 
