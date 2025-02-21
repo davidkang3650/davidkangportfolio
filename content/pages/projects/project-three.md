@@ -72,7 +72,7 @@ bottomSections:
         textAlign: center
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/Untitled_3.16.1.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
