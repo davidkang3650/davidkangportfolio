@@ -41,7 +41,7 @@ bottomSections:
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
-        url: /images/Untitled_1.1.1.png
+        url: /images/DSC_0140.jpg
         altText: Image two
         caption: Image two caption
         elementId: ''
