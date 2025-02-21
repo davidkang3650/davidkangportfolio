@@ -60,7 +60,7 @@ metaTags: []
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/IMG_0459.JPG
+  url: /images/IMG_0510.JPG
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
