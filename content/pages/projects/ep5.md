@@ -26,7 +26,7 @@ bottomSections:
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
-        url: /images/Untitled_1.4.3.png
+        url: /images/IMG_0176.JPG
         altText: Image three
         caption: Image three caption
         elementId: ''
