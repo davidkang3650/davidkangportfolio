@@ -14,7 +14,7 @@ bottomSections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: The Section Title
+    title: 'Episode 5: GRIT'
     text: >
       [Full writeup for the Texas A\&M Media
       Lab](https://www.thecmcollective.org/cstat-collage-lemons-racing/)
