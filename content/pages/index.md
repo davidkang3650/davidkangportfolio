@@ -16,8 +16,8 @@ sections:
     title: DAVID KANG
     subtitle: >-
       Video producer specializing in live sets, performances, and documentaries.
-      Exploring the uses of experimental video art with generative programs such
-      as Touchdesigner, and analog video synthesis
+      Exploring the use of experimental video art with generative programs such
+      as Touchdesigner, and analog setups with video synthesizers.
     styles:
       self:
         height: auto
