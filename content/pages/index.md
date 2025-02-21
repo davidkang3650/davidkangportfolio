@@ -47,7 +47,7 @@ sections:
     actions: []
   - type: HeroSection
     title: ''
-    subtitle: ''
+    subtitle: Statement
     actions: []
     media:
       type: ImageBlock
