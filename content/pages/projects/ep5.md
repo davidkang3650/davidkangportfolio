@@ -16,7 +16,7 @@ bottomSections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/Untitled_1.1.1.png
+        url: /images/IMG_0170.JPG
         altText: Image one
         caption: Image one caption
         elementId: ''
