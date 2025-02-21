@@ -12,9 +12,15 @@ featuredImage:
   url: /images/Untitled_1.14.1.png
   altText: Scene from the Bonfire
 media:
-  type: ImageBlock
-  url: /images/bg2.jpg
-  altText: Project image
+  type: VideoBlock
+  title: Title of the video
+  url: 'https://youtu.be/BD-YliszGkA'
+  elementId: ''
+  autoplay: false
+  loop: false
+  muted: false
+  controls: true
+  aspectRatio: '16:9'
 ---
 What goes on in the middle of Texas?
 
