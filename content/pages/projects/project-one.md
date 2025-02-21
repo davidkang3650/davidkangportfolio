@@ -9,7 +9,7 @@ description: >-
   FEATURING THE TEXAS A&M FILMMAKING CLUB
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/Untitled_1.1.1.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
