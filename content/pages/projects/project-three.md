@@ -30,7 +30,7 @@ bottomSections:
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
-        url: /images/Untitled_3.10.1.png
+        url: /images/Untitled_3.16.1.png
         altText: Image one
         caption: Image one caption
         elementId: ''
