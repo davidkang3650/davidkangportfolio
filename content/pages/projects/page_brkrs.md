@@ -8,7 +8,7 @@ description: >-
   directed by Winston Li. 
 featuredImage:
   type: ImageBlock
-  url: /images/783eef8c-1531-46fa-846f-8e6914b1c1e2_rw_1200.png
+  url: /images/Still 2024-06-27 185125_1.5.1.jpg
   altText: Project thumbnail image
 media:
   type: VideoBlock
