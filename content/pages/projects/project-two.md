@@ -6,10 +6,10 @@ date: '2024-02-24'
 client: ''
 description: >-
   4th episode of the student documentary series College Station Collage.
-  Featuring the Aggie Bonfire Crew
+  Featuring the TEXAS A&M Bonfire Crew
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  url: /images/IMG_3372.PNG
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
@@ -25,7 +25,7 @@ media:
   aspectRatio: '16:9'
 backgroundImage:
   type: BackgroundImage
-  url: /images/IMG_3372.PNG
+  url: /images/IMG_3372 edited.PNG
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
