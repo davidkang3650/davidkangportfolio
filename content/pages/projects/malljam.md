@@ -66,5 +66,12 @@ bottomSections:
         textAlign: center
 metaTags: []
 colors: colors-a
+backgroundImage:
+  type: BackgroundImage
+  url: /images/bg2.jpg
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
 Using my video synthesizer setup, I focused on the immediate nature of analog signals and closed circuit cameras, and conducted a set of installation pieces with audio reactive video elements projected onto the backdrop of the student performers. As the microphones were detecting audio from the entire set, not only the musical piece but also any sound made by people nearby, the series resulted in a highly personalized performance piece for the small number of crew involved. This was emphasized by the remote, desolate nature of many of these filming locations.
