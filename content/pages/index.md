@@ -8,7 +8,7 @@ backgroundImage:
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 69
+  opacity: 55
 sections:
   - elementId: ''
     colors: colors-f
@@ -17,7 +17,7 @@ sections:
     subtitle: >-
       Video producer specializing in live sets, performances, and documentaries.
       Exploring the use of experimental video art with generative programs such
-      as Touchdesigner, and analog setups with video synthesizers.
+      as Touchdesigner and analog setups with video synthesizers.
     styles:
       self:
         height: auto
