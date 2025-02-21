@@ -25,7 +25,7 @@ media:
   aspectRatio: '16:9'
 backgroundImage:
   type: BackgroundImage
-  url: /images/IMG_3372.PNG
+  url: /images/Rollei SuperPan-26.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
