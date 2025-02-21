@@ -55,12 +55,14 @@ sections:
     showDate: false
     showDescription: true
     showFeaturedImage: true
-    showReadMoreLink: true
+    showReadMoreLink: false
     variant: variant-b
     projects:
+      - content/pages/projects/ep5.md
       - content/pages/projects/project-two.md
       - content/pages/projects/project-three.md
       - content/pages/projects/project-one.md
+      - content/pages/projects/malljam.md
     styles:
       self:
         height: auto
