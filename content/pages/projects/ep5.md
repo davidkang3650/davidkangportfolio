@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: COLLEGE STATION COLLAGE EPISODE 2
+title: COLLEGE STATION COLLAGE EPISODE 5
 date: '2023-06-15'
 client: ''
 description: >-
