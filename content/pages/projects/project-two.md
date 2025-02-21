@@ -9,7 +9,7 @@ description: >-
   Featuring the TEXAS A&M Bonfire Crew
 featuredImage:
   type: ImageBlock
-  url: /images/IMG_3372.PNG
+  url: /images/bon_1.60.1.png
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
