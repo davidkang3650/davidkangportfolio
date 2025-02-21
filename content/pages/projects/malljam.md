@@ -67,6 +67,4 @@ bottomSections:
 metaTags: []
 colors: colors-a
 ---
-As Director of Photography I was responsible for operating the cameras and getting more than 90% of the shots for the film with an expected runtime of 2hrs. Tragically, although the entire film was written and filmed, the director of the movie and my best friend Winston Li committed suicide before being able to finish the project. Considering my close relationship to the material and the director, I decided to complete the movie myself using the written guidance in the script from Winston.
-
-The film will be released soon.
+Using my video synthesizer setup, I focused on the immediate nature of analog signals and closed circuit cameras, and conducted a set of installation pieces with audio reactive video elements projected onto the backdrop of the student performers. As the microphones were detecting audio from the entire set, not only the musical piece but also any sound made by people nearby, the series resulted in a highly personalized performance piece for the small number of crew involved. This was emphasized by the remote, desolate nature of many of these filming locations.
