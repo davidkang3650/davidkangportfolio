@@ -12,7 +12,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/Untitled_1.47.3.png
+  url: /images/Untitled_1.47.1.png
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
