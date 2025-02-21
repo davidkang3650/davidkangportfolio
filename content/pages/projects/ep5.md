@@ -8,7 +8,7 @@ description: >-
   COLLAGE. FEATURING THE AGGIE LEMON RACING
 featuredImage:
   type: ImageBlock
-  url: /images/Untitled_1.1.1.png
+  url: /images/IMG_0182.JPG
   altText: Project thumbnail image
 media:
   type: VideoBlock
