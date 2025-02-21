@@ -67,7 +67,7 @@ sections:
       type: ImageBlock
       url: /images/shot.png
       altText: Hero image
-      caption: Caption of the image
+      caption: ''
       elementId: ''
     colors: colors-c
     backgroundSize: full
