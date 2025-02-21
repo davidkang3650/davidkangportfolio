@@ -3,7 +3,7 @@ type: ProjectLayout
 title: LIVE PERFORMANCES
 date: '2023-02-15'
 client: ''
-description: 'Director of Photography for feature film "The ''Breakers" by Winston Li. '
+description: SERIES OF INSTALLATION PERFORMANCES PIECES SHOWCASING STUDENT MUSICAL TALENT
 featuredImage:
   type: ImageBlock
   url: /images/Still 2024-06-27 185125_1.5.1.jpg
