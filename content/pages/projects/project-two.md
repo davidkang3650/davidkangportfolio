@@ -3,7 +3,7 @@ type: ProjectLayout
 title: COLLEGE STATION COLLAGE EPISODE 4
 colors: colors-a
 date: '2024-02-24'
-client: Awesome client
+client: ''
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
   because I worked with an entire team :) but they definitely followed my lead
