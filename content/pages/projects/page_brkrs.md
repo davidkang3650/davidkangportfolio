@@ -37,8 +37,7 @@ bottomSections:
         caption: Image four caption
         elementId: ''
       - type: ImageBlock
-        url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
+        url: /images/7887ae6b10e448c2a0296be149707496.jpeg
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
