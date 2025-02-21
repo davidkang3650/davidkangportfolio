@@ -36,10 +36,6 @@ bottomSections:
         altText: Image two
         caption: Image two caption
         elementId: ''
-      - type: ImageBlock
-        altText: Image four
-        caption: Image four caption
-        elementId: ''
     colors: colors-f
     spacing: 16
     columns: 2
