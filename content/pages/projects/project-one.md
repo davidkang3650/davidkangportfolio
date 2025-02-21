@@ -13,7 +13,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: VideoBlock
-  title: Title of the video
+  title: SUMMER BREAKERS
   url: >-
     https://www.youtube.com/watch?v=5pyYQRBzSt4&t=497s&ab_channel=CollegeStationCollage
   elementId: ''
