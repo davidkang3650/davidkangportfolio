@@ -19,4 +19,4 @@ media:
   controls: true
   aspectRatio: '16:9'
 ---
-For the 3rd episode, I followed a group of freestyle dancers to their monthly street performance in downtown Bryan during the First Friday celebrations. Then as a second segment, I brought the dance crew to the city of Hearne, to the setting of a completely abandoned downtown to see if their performances would change according to location. Their passion was unfazed by the lack of spectators and we ended up dancing into the night in the sweltering Texas summer.
+For the 3rd episode, I followed a group of freestyle dancers to their monthly street performance in downtown Bryan during the First Friday celebrations. Then as a second segment, I brought the dance crew to the city of Hearne, to the setting of a completely abandoned downtown to see if their performances would change according to location. Their passion was unfazed by the lack of spectators and we ended up dancing into the night, middle of the sweltering Texas summer.
