@@ -4,8 +4,8 @@ title: THE 'BREAKERS
 date: '2023-01-20'
 client: ''
 description: >-
-  PILOT EPISODE FOR THE STUDENT DOCUMENTARY SERIES COLLEGE STATION COLLAGE.
-  FEATURING THE TEXAS A&M PARANORMAL SOCIETY
+  Worked as Director of Photography for student feature film "The 'Breakers",
+  directed by Winston Li. 
 featuredImage:
   type: ImageBlock
   url: /images/783eef8c-1531-46fa-846f-8e6914b1c1e2_rw_1200.png
