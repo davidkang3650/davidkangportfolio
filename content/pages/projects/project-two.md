@@ -13,7 +13,7 @@ featuredImage:
   altText: Scene from the Bonfire
 media:
   type: VideoBlock
-  title: Title of the video
+  title: BURNING
   url: 'https://www.youtube.com/watch?v=jumaK1m3REA&ab_channel=CollegeStationCollage'
   elementId: ''
   autoplay: false
