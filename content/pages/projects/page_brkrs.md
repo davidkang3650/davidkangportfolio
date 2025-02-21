@@ -12,7 +12,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  url: /images/1f3eb00629394718aeb4bad61c921af1.jpeg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
