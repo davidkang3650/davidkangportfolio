@@ -5,9 +5,8 @@ colors: colors-a
 date: '2023-06-15'
 client: ''
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  2ND EPISODE FOR THE STUDENT DOCUMENTARY SERIES COLLEGE STATION COLLAGE.
+  FEATURING THE TEXAS A&M FILMMAKING CLUB
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
