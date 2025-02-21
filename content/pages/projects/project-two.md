@@ -5,8 +5,8 @@ colors: colors-a
 date: '2024-02-24'
 client: ''
 description: >-
-  4th episode of the student documentary series College Station Collage.
-  Featuring the TEXAS A&M Bonfire Crew
+  4TH EPISODE OF THE STUDENT DOCUMENTARY SERIES COLLEGE STATION COLLAGE.
+  FEATURING THE TEXAS A&M BONFIRE CREW
 featuredImage:
   type: ImageBlock
   url: /images/bon_1.60.1.png
@@ -41,7 +41,7 @@ bottomSections:
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
-        url: /images/Untitled_1.1.1.png
+        url: /images/DSC_0140.jpg
         altText: Image two
         caption: Image two caption
         elementId: ''
