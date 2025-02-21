@@ -46,7 +46,7 @@ bottomSections:
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
-        url: /images/bon_1.60.1.png
+        url: /images/IMG_3372 edited.PNG
         altText: Image three
         caption: Image three caption
         elementId: ''
