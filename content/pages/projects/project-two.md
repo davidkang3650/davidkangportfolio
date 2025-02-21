@@ -9,7 +9,7 @@ description: >-
   Featuring the Aggie Bonfire Crew
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Untitled_1.14.1.png
   altText: Scene from the Bonfire
 media:
   type: ImageBlock
