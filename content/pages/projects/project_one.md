@@ -32,7 +32,7 @@ bottomSections:
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-2.jpg
+        url: /images/783eef8c-1531-46fa-846f-8e6914b1c1e2_rw_1200.png
         altText: Image two
         caption: Image two caption
         elementId: ''
