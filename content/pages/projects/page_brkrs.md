@@ -27,11 +27,6 @@ bottomSections:
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
-        url: /images/7887ae6b10e448c2a0296be149707496.jpeg
-        altText: Image two
-        caption: Image two caption
-        elementId: ''
-      - type: ImageBlock
         url: /images/863165b5272d4c1e8a31e17cec21f0cd.jpeg
         altText: Image three
         caption: Image three caption
