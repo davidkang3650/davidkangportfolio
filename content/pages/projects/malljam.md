@@ -10,7 +10,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/1f3eb00629394718aeb4bad61c921af1.jpeg
+  url: /images/Untitled_1.47.3.png
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
