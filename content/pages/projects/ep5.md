@@ -88,6 +88,6 @@ backgroundImage:
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 61
+  opacity: 60
 ---
 For the 2nd episode I immersed myself into the filmmaking club of Texas A\&M, getting involved with the largest feature film project in the history of the club. Here I met Winston, who was a constant collaborator and my best friend throughout my college years until his sudden passing from suicide summer of 2024.
