@@ -6,7 +6,7 @@ client: ''
 description: SERIES OF INSTALLATION PERFORMANCES PIECES SHOWCASING STUDENT MUSICAL TALENT
 featuredImage:
   type: ImageBlock
-  url: /images/Still 2024-06-27 185125_1.5.1.jpg
+  url: /images/Untitled_1.47.2.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
