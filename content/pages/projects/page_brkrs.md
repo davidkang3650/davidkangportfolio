@@ -11,16 +11,11 @@ featuredImage:
   url: /images/Still 2024-06-27 185125_1.5.1.jpg
   altText: Project thumbnail image
 media:
-  type: VideoBlock
-  title: SUMMER BREAKERS
-  url: >-
-    https://www.youtube.com/watch?v=BKHff5E1_xs&t=473s&ab_channel=CollegeStationCollage
+  type: ImageBlock
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
   elementId: ''
-  autoplay: false
-  loop: false
-  muted: false
-  controls: true
-  aspectRatio: '16:9'
 bottomSections: []
 metaTags: []
 colors: colors-a
