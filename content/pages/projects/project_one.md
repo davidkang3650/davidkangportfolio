@@ -8,7 +8,7 @@ description: >-
   FEATURING THE TEXAS A&M PARANORMAL SOCIETY
 featuredImage:
   type: ImageBlock
-  url: /images/Untitled_1.1.1.png
+  url: /images/783eef8c-1531-46fa-846f-8e6914b1c1e2_rw_1200.png
   altText: Project thumbnail image
 media:
   type: VideoBlock
