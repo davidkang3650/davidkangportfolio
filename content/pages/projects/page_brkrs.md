@@ -19,7 +19,7 @@ media:
 bottomSections:
   - type: MediaGallerySection
     title: Gallery
-    subtitle: This is the subtitle
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/563980bc66924090a2e1c44964e42f43.jpeg
@@ -65,4 +65,6 @@ bottomSections:
 metaTags: []
 colors: colors-a
 ---
-As a proof of concept for my former employers at PBS, I made an ethnographical documentary series in the form of "Gonzo" journalism with collaboration from student creatives in the Texas A\&M filmmaking club and the Texas A\&M PBS station KAMU-FM. Some guiding ideas was an experimental, first person perspective into the various different subcultures of Texas A\&M. Early uses of my video synthesizer can be seen during the middle segment, which was a constant theme throughout the series.
+As Director of Photography I was responsible for getting more than 90% of the shots for the film with an expected runtime of 2hrs. Although the entire film was written and filmed, the director of the movie and my best friend Winston Li committed suicide before being able to complete the project. Considering my close relationship to the material and the director, I decided to finish the movie myself using the written guidance in the script from Winston.
+
+The film will be released soon.
