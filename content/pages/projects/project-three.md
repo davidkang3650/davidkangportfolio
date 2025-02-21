@@ -9,7 +9,7 @@ description: >-
   FEATURING THE TEXAS A&M FREESTYLE UNDERGROUND DANCERS
 media:
   type: VideoBlock
-  title: Title of the video
+  title: F.G.H.
   url: >-
     https://www.youtube.com/watch?v=L_R_TiiBGNI&t=308s&ab_channel=CollegeStationCollage
   elementId: ''
