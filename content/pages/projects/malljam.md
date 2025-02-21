@@ -27,7 +27,7 @@ bottomSections:
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
-        url: /images/863165b5272d4c1e8a31e17cec21f0cd.jpeg
+        url: /images/Untitled_1.6.1.png
         altText: Image three
         caption: Image three caption
         elementId: ''
