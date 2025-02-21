@@ -7,18 +7,7 @@
         "isSticky": false,
         "title": "Personal",
         "isTitleVisible": true,
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Info",
-                "url": "/info"
-            },
-            {
-                "type": "Link",
-                "label": "Projects",
-                "url": "/projects"
-            }
-        ],
+        "primaryLinks": [],
         "socialLinks": [],
         "styles": {
             "self": {
