@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: THE 'BREAKERS
+title: LIVE PERFORMANCES
 date: '2023-01-20'
 client: ''
 description: 'Director of Photography for feature film "The ''Breakers" by Winston Li. '
