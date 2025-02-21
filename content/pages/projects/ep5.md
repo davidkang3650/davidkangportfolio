@@ -10,17 +10,6 @@ featuredImage:
   type: ImageBlock
   url: /images/IMG_0459.JPG
   altText: Project thumbnail image
-media:
-  type: VideoBlock
-  title: SUMMER BREAKERS
-  url: >-
-    https://www.youtube.com/watch?v=5pyYQRBzSt4&t=497s&ab_channel=CollegeStationCollage
-  elementId: ''
-  autoplay: false
-  loop: false
-  muted: false
-  controls: true
-  aspectRatio: '16:9'
 bottomSections:
   - type: MediaGallerySection
     title: Gallery
