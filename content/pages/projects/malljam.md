@@ -74,4 +74,4 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 63
 ---
-Using my video synthesizer setup, I focused on the immediate nature of analog signals and closed circuit cameras to conduct a set of installation pieces with audio reactive video elements projected onto the backdrop of the student performers. With microphones detecting audio from the entire set- not only the musical piece but also any sound made by people nearby- the series resulted in a highly personalized performance piece for the small number of crew involved, which was emphasized by the remote and desolate nature of many of these filming locations.
+Using my video synthesizer, I focused on the immediate nature of analog signals and closed circuit cameras to conduct a set of installation pieces with audio reactive visual elements projected onto the backdrop of the performers. With microphones detecting audio from the entire set- not only the musical piece but also any sound made by people nearby- the series resulted in a highly personalized interactive performance piece for the small number of crew involved, further emphasized by the remote and desolate locations many of these took place.
