@@ -78,19 +78,17 @@ sections:
       actions:
         justifyContent: flex-start
     text: >
-      After realizing the captivating power of the moving picture and
-      experiencing the visceral analog images of experimental video from video
-      artists like Name June Paik, I moved to the United States from Korea to
-      continue my pursuit of merging the boundary between classical and
-      experimental media. I was trained with various non-linear editing software
-      and my knowledge of camera operation, framing, and composition comes from
-      my time working on production sets of TV shows and movies. Many of my
-      projects were produced using my analog video synthesizer setup, which is a
-      custom built modular synthesizer that can play the video similar to how an
-      electric keyboard plays electronic music. My creative focus is in the
-      immersive, interactive, and the experimental, and I am collaborating with
-      artists and musicians to create audio visual experiences in the vein of
-      Allan Kaprow's Happenings.
+      Realizing the captivating power of the moving picture and experiencing the
+      visceral analog images of experimental video from early video artists like
+      Nam June Paik, I moved to the United States from Korea to continue my
+      pursuit of blurring the boundary between classical and experimental media.
+      I was trained with various non-linear editing software and my knowledge of
+      camera operation, framing, and composition comes from my time working on
+      production sets of TV shows and movies. Many of my projects were produced
+      using my analog video synthesizer, an Eurorack modular synth that can
+      "play" the video akin to how an electric keyboard plays electronic music.
+      Themes I am searching for are the immersive, interactive, and
+      experimental.
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
