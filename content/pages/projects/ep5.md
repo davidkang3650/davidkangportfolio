@@ -90,4 +90,4 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 57
 ---
-I joined the Aggie Lemon Racing team for the last episode of College Station Collage, and followed the team's journey preparing and competing the 24 hours of Lemons race in Houston. As a season finale for a participatory documentary series, I was able to drive the team's 1996 Mustang for a portion of the endurance race.
+I followed the Aggie Lemon Racing team for the last episode of College Station Collage, and documented the team's journey preparing and competing the 24 hours of Lemons race at the MSR racetrack in Houston. For the season finale of this "Gonzo" documentary series, I joined the team as driver and entered the race piloting the 1997 Mustang for a portion of the endurance race.
