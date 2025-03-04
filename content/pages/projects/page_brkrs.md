@@ -70,6 +70,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 66
 ---
-As Director of Photography I was responsible for operating the cameras and getting more than 90% of the shots for the film with an expected runtime of 2hrs. Tragically, although the entire film was written and filmed, the director of the movie and my best friend Winston Li committed suicide before being able to finish the project. Considering my close relationship to the material and the director, I decided to complete the movie myself using the written guidance in the script from Winston.
+As Director of Photography I was responsible for composing the image, operating the cameras, and filming around 90% of the shots for the feature film with an expected runtime of 1.5hrs. Tragically, although the entire film was written and filmed, the director of the movie and my best friend Winston Li passed away from suicide before being able to finish the project. Considering my close relationship to the material and the director, I decided to complete the movie myself using the written guidance in the script from Winston.
 
 The film will be released soon.
