@@ -69,4 +69,4 @@ backgroundImage:
 ---
 What goes on in the middle of Texas?
 
-As a proof of concept during my time woking at PBS, I started an ethnographical documentary series in the form of "Gonzo" journalism with collaboration from student creatives in the Texas A\&M filmmaking club and the Texas A\&M PBS station KAMU-FM. Some guiding ideas was an experimental, first person perspective into the various niche subcultures of Texas A\&M University. Early uses of my video synthesizer can be seen during the middle segment, which remained a constant theme throughout the series.
+As a proof of concept during my time woking at PBS, I started an ethnographical documentary series in the form of "Gonzo" journalism with collaboration from student creatives in the Texas A\&M filmmaking club and the Texas A\&M PBS station KAMU-FM. Some guiding ideas was an experimental, first person perspective into the various niche subcultures of Texas A\&M University. Early uses of my video synthesizer can be seen during the middle segment, and analog video experiments remained a constant theme throughout the series.
