@@ -4,8 +4,8 @@ title: For PBS TV
 date: '2023-04-10'
 client: ''
 description: >-
-  5TH AND FINAL EPISODE FOR THE STUDENT DOCUMENTARY SERIES COLLEGE STATION
-  COLLAGE. FEATURING THE AGGIE LEMON RACING
+  Projects during my time working for the production department at KAMU-TV, a
+  PBS affiliate broadcast station of the Brazos Valley area.
 featuredImage:
   type: ImageBlock
   url: /images/IMG_0510.JPG
