@@ -8,7 +8,7 @@ description: >-
   PBS affiliate broadcast station of the Brazos Valley area.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  url: /images/Screenshot 2025-03-11 201428.png
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
