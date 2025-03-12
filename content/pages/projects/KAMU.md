@@ -93,7 +93,7 @@ backgroundImage:
   opacity: 57
 media:
   type: VideoBlock
-  title: Title of the video
+  title: Texas A&M Today Episode 4
   url: >-
     https://www.youtube.com/watch?v=kLU4Qnx99J4&ab_channel=KAMUPublicBroadcasting
   elementId: ''
