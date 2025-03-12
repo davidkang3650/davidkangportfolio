@@ -34,6 +34,4 @@ media:
   controls: true
   aspectRatio: '16:9'
 ---
-At KAMU I assisted with productions on studio and live sets, managing cameras, audio recorders, and lighting equipment.
-
-My duties also included filming, editing, and producing video content on local events for social media.
+At KAMU I assisted with productions in the studio and on live sets, managing cameras, audio recorders, and lighting equipment. My duties also included filming, editing, and producing video content on local news for social media. For live event broadcasting I was trained in ENG camera operation and technical directing for video switcher controls.
