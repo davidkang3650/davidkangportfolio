@@ -17,7 +17,7 @@ metaTags: []
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/IMG_0510.JPG
+  url: /images/0832669_0832669-R1-071-34.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
