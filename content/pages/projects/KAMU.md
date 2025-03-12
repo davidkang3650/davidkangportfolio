@@ -13,30 +13,6 @@ featuredImage:
   caption: Caption of the image
   elementId: ''
 bottomSections:
-  - type: TextSection
-    colors: colors-f
-    variant: variant-a
-    title: 'Episode 5: GRIT'
-    text: >
-      [Full writeup for the Texas A\&M Media
-      Lab](https://www.thecmcollective.org/cstat-collage-lemons-racing/)
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
   - type: MediaGallerySection
     title: Gallery
     subtitle: ''
@@ -103,4 +79,6 @@ media:
   controls: true
   aspectRatio: '16:9'
 ---
-I followed the Aggie Lemon Racing team for the last episode of College Station Collage, and documented the team's journey preparing and competing the 24 hours of Lemons race at the MSR racetrack in Houston. For the season finale of this "Gonzo" documentary series, I joined the team as driver and entered the race piloting the 1997 Mustang for a portion of the endurance race.
+At KAMU I assisted with productions on studio and live sets, managing cameras, audio recorders, and lighting equipment.
+
+My duties also included filming, editing, and producing video content on local events for social media.
