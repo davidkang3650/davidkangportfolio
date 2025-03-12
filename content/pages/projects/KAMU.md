@@ -13,30 +13,6 @@ featuredImage:
   caption: Caption of the image
   elementId: ''
 bottomSections:
-  - type: TextSection
-    colors: colors-f
-    variant: variant-a
-    title: 'Episode 5: GRIT'
-    text: >
-      [Full writeup for the Texas A\&M Media
-      Lab](https://www.thecmcollective.org/cstat-collage-lemons-racing/)
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
   - type: MediaGallerySection
     title: Gallery
     subtitle: ''
