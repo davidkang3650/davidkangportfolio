@@ -80,15 +80,15 @@ sections:
     text: >
       Realizing the captivating power of the moving picture and experiencing the
       visceral analog images of experimental video from early video artists like
-      Nam June Paik, I moved to the United States from Korea to continue my
+      Nam June Paik, Kang moved to the United States from Korea to continue his
       pursuit of blurring the boundary between classical and experimental media.
-      I was trained with various non-linear editing software and my knowledge of
-      camera operation, framing, and composition comes from my time working on
-      production sets of TV shows and movies. Many of my projects were produced
-      using my analog video synthesizer, an Eurorack modular synth that can
-      "play" the video akin to how an electric keyboard plays electronic music.
-      Themes I am searching for are the immersive, interactive, and
-      experimental.
+      He was trained with various non-linear editing software and his knowledge
+      of camera operation, framing, and composition comes from his time working
+      on production sets of TV shows and movies. Many of his projects were
+      produced using a custom LZX format analog video synthesizer, an modular
+      synth that can "play" the video akin to how an electric keyboard plays
+      electronic music. Themes he is searching for are the immersive,
+      interactive, and experimental.
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
